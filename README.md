@@ -21,7 +21,7 @@ Se llevó a cabo la solución a través este proyecto con Laravel versión 8.
 - PASO 1) Se definieron modelos, migraciones de base de datos necesarias.
 - PASO 2) importar el archivo en formato Excel con toda la base de datos que se pudo obtener del siguiente enlace
 https://www.correosdemexico.gob.mx/SSLServicios/ConsultaCP/CodigoPostal_Exportar.aspx con todos los datos de los Zip Codes de Mexico.
-Es la parte mas importante y que se tardo porque el archivo excel es grande, se tuvo que dividir en archivos mas pequeños e importar uno a uno:
+Se toma la fuente de excel y se importa a la base de datos.
 - PASO 3) Se habilito la ruta replicando el endpoint /api/zip-codes/{zip_code}.
 - PASO 4) Se realizaron algunas pruebas hasta obtener las misma estructura json requerida.
 

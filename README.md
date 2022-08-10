@@ -14,7 +14,7 @@ El reto consiste en utilizar el framework Laravel para replicar la funcionalidad
 (https://jobs.backbonesystems.io/api/zip-codes/01210), utilizando esta fuente de información.
 El tiempo de respuesta promedio debe ser menor a 300 ms, pero entre menor sea, mejor.
 
-# Framework Usando
+# Framework Usado
 Laravel Framework Version 8.83.11
 
 ## Detalles ¿Como se abordo el problema?

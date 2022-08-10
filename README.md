@@ -16,6 +16,7 @@ El tiempo de respuesta promedio debe ser menor a 300 ms, pero entre menor sea, m
 
 # Framework Usado
 Laravel Framework Version 8.83.11
+Endpoint >>> http://34.240.122.142/zip-codes/public/api/zip-codes/20010
 
 ## Detalles ¿Como se abordo el problema?
 

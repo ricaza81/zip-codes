@@ -14,6 +14,9 @@ El reto consiste en utilizar el framework Laravel para replicar la funcionalidad
 (https://jobs.backbonesystems.io/api/zip-codes/01210), utilizando esta fuente de información.
 El tiempo de respuesta promedio debe ser menor a 300 ms, pero entre menor sea, mejor.
 
+# Framework Usando
+Laravel Framework Version 8.83.11
+
 ## Detalles ¿Como se abordo el problema?
 
 Se llevó a cabo la solución a través este proyecto con Laravel versión 8.
@@ -27,7 +30,7 @@ Se toma la fuente de excel y se importa a la base de datos.
 
 ## Conclusión
 
-Un reto relativamente fácil para implementar, se realizó en 5 horas. 
+Un reto relativamente fácil para implementar, se realizó en 2 horas. 
 
 ##*Nota adicional*: 
 Se trató de cumplir el objetivo priorizando a la implementación de la API, lo más rapido posible usando una sola tabla en base de datos, de ser necesario y con un poco más de tiempo
